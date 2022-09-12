@@ -46,6 +46,14 @@ cd spy-dark
 
 
 
+
+chmod +x *
+
+
+
+
+
+
 bash setup.sh
 
 
