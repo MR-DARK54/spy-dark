@@ -72,6 +72,9 @@ bash setup.sh
 
 ====================================================
 
+
+picture 
+
 https://b.top4top.io/p_2446an8e71.jpg
 
 
